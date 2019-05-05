@@ -1,0 +1,14 @@
+{
+    "name": "whyisjake/scraper",
+    "type": "library",
+    "require": {
+        "fusonic/opengraph": "@dev",
+        "guzzlehttp/guzzle": "6.3 as 4.0"
+    },
+    "authors": [
+        {
+            "name": "Jake Spurlock",
+            "email": "whyisjake@gmail.com"
+        }
+    ]
+}
